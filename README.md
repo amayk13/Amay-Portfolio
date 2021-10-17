@@ -1,3 +1,5 @@
+# Amay Kharbanda Portfolio
+
 # [Project 1: AirBnb NYC Data Analysis, Quote, and Recommendation system](https://github.com/amayk13/Airbnb-and-CDC-projects)
 
 - Data visualizations using Seaborn library (80+ lines of code). Correlation tables, scatter plots, and boxplots.
