@@ -4,7 +4,7 @@
 - Successful quote system based on 15+ features and XGBoost.
 - Interactive map for a recommendation system 
 
-![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Data%20Visualization.png)
+![](images/Data%20Visualization.png)
 ![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/XGBoost.png)
 ![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Interactive%20Map.png)
 
