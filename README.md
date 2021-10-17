@@ -4,9 +4,9 @@
 - Successful quote system based on 15+ features and XGBoost.
 - Interactive map for a recommendation system 
 
-![](/Airbnb-and-CDC-projects/blob/main/Data%20Visualization.png)
-![](https://github.com/amayk13/Airbnb-and-CDC-projects/blob/main/XGBoost.png)
-![](https://github.com/amayk13/Airbnb-and-CDC-projects/blob/main/Interactive%20Map.png)
+![](/Amay-Portfolio/blob/images/Data%20Visualization.png)
+![](/Amay-Portfolio/blob/images/XGBoost.png)
+![](/Amay-Portfolio/blob/images/Interactive%20Map.png)
 
 # [Project 2: CDC API Data Analysis and Modeling](https://github.com/amayk13/Airbnb-and-CDC-projects)
 
@@ -15,9 +15,9 @@
 - Compared K means, DBScan, and Mean shift models for the best fit.
 - Mean shift and DBScan perform the best slightly having an edge over K means.
 
-![](https://github.com/amayk13/Airbnb-and-CDC-projects/blob/main/Correlation%20map%20%20-%20features.png)
-![](https://github.com/amayk13/Airbnb-and-CDC-projects/blob/main/Correlation%20map%20-%20M%20Lin%20Regression%20data.png)
-![](https://github.com/amayk13/Airbnb-and-CDC-projects/blob/main/Clustering%20model%20comparison.png)
+![](/Amay-Portfolio/blob/images/Correlation%20map%20%20-%20features.png)
+![](/Amay-Portfolio/blob/images/Correlation%20map%20-%20M%20Lin%20Regression%20data.png)
+![](/Amay-Portfolio/blob/images/Clustering%20model%20comparison.png)
 
 # [Project 3: CelebFaces - Gender Recognition using Keras](https://github.com/amayk13/CelebFaces-Gender-Recognition)
 
@@ -28,7 +28,7 @@
 
 ![](https://github.com/amayk13/CelebFaces-Gender-Recognition/blob/main/Male.png)
 ![](https://github.com/amayk13/CelebFaces-Gender-Recognition/blob/main/Female.png)
-![](https://github.com/amayk13/CelebFaces-Gender-Recognition/blob/main/Accuracy.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Accuracy.png)
 ![](https://github.com/amayk13/CelebFaces-Gender-Recognition/blob/main/Loss.png)
 
 # [Project 4: Jeopardy Shiny App (jservice.io)](https://github.com/amayk13/Jeopardy-Shiny-App)
