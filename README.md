@@ -4,7 +4,7 @@
 - Successful quote system based on 15+ features and XGBoost.
 - Interactive map for a recommendation system 
 
-![](https://github.com/amayk13/Airbnb-and-CDC-projects/blob/main/Data%20Visualization.png)
+![](/Airbnb-and-CDC-projects/blob/main/Data%20Visualization.png)
 ![](https://github.com/amayk13/Airbnb-and-CDC-projects/blob/main/XGBoost.png)
 ![](https://github.com/amayk13/Airbnb-and-CDC-projects/blob/main/Interactive%20Map.png)
 
