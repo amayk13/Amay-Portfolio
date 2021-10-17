@@ -4,9 +4,9 @@
 - Successful quote system based on 15+ features and XGBoost.
 - Interactive map for a recommendation system 
 
-![](/Amay-Portfolio/blob/images/Data%20Visualization.png)
-![](/Amay-Portfolio/blob/images/XGBoost.png)
-![](/Amay-Portfolio/blob/images/Interactive%20Map.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Data%20Visualization.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/XGBoost.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Interactive%20Map.png)
 
 # [Project 2: CDC API Data Analysis and Modeling](https://github.com/amayk13/Airbnb-and-CDC-projects)
 
@@ -15,9 +15,9 @@
 - Compared K means, DBScan, and Mean shift models for the best fit.
 - Mean shift and DBScan perform the best slightly having an edge over K means.
 
-![](/Amay-Portfolio/blob/images/Correlation%20map%20%20-%20features.png)
-![](/Amay-Portfolio/blob/images/Correlation%20map%20-%20M%20Lin%20Regression%20data.png)
-![](/Amay-Portfolio/blob/images/Clustering%20model%20comparison.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Correlation%20map%20%20-%20features.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Correlation%20map%20-%20M%20Lin%20Regression%20data.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Clustering%20model%20comparison.png)
 
 # [Project 3: CelebFaces - Gender Recognition using Keras](https://github.com/amayk13/CelebFaces-Gender-Recognition)
 
@@ -26,10 +26,10 @@
 - Secured A+ on face pattern recognition model (with 90%+ accuracy) 2 Neural Net and Logistic Regression algorithms using Keras.
 - Concurrent Neural Net was the best followed by Logistic Regression and Recurrent Neural Net.
 
-![](https://github.com/amayk13/CelebFaces-Gender-Recognition/blob/main/Male.png)
-![](https://github.com/amayk13/CelebFaces-Gender-Recognition/blob/main/Female.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Male.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Female.png)
 ![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Accuracy.png)
-![](https://github.com/amayk13/CelebFaces-Gender-Recognition/blob/main/Loss.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Loss.png)
 
 # [Project 4: Jeopardy Shiny App (jservice.io)](https://github.com/amayk13/Jeopardy-Shiny-App)
 
@@ -38,7 +38,7 @@
 - Use Random mode to pick 10 questions from the database for practice.
 - Use Test mode to test yourself against one question with a 30 second timer.
 
-![](https://github.com/amayk13/Jeopardy-Shiny-App/blob/main/Shiny%20App%20gif%20compressed.gif)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Shiny%20App%20gif%20compressed.gif)
 
 Check out the app!
 
@@ -52,9 +52,9 @@ https://amay-kharbanda.shinyapps.io/7626598f9e634f34bfc58862fa247e05/
 - Ensemble Method - Random Forest (90.1% accuracy)
 - Neural Net (87.3% accuracy)
 
-![](https://github.com/amayk13/Statistical-Analysis-on-Bank-Data/blob/main/Decision%20Tree.png)
-![](https://github.com/amayk13/Statistical-Analysis-on-Bank-Data/blob/main/ROC%20AUC.png)
-![](https://github.com/amayk13/Statistical-Analysis-on-Bank-Data/blob/main/Neural%20Net.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Decision%20Tree.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/ROC%20AUC.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Neural%20Net.png)
 
 # [Project 6: Mapping pluto's orbit and analyzing perturbations](https://github.com/amayk13/Linear-algebra-analysis-on-planetary-system)
 
@@ -65,4 +65,4 @@ https://amay-kharbanda.shinyapps.io/7626598f9e634f34bfc58862fa247e05/
 
 Plot:
 
-![](https://github.com/amayk13/MAT-167/blob/main/Plot.png)
+![](https://github.com/amayk13/Amay-Portfolio/blob/main/images/Plot.png)
